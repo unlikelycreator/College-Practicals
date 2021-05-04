@@ -1,12 +1,7 @@
-# College-Practicals
-
-Vidyavardhini's
-
 A.V. College of Arts, K.M. College of Commerce & E.S.A. College of Science 
 Vasai Road (West), Dist - Palghar 401 202, Maharashtra State
 
-
-Online Examination (Sem-VI) Time-Table May-2021
+### Online Examination (Sem-VI) Time-Table May-2021
 Programme – TY BSc C.S. (Computer Science) (CBCS)
 
 
