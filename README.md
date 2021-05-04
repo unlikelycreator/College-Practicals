@@ -11,23 +11,23 @@ Programme – TY BSc C.S. (Computer Science) (CBCS)
 
 
 
-> Thursday 6th May 2021
+> **Thursday 6th May 2021**
   11.30 a.m. to 12.30 p.m.
   Wireless Sensor Networks And Mobile Communication
 ----
-> Friday 7th May 2021
+> **Friday 7th May 2021**
   11.30 a.m. to 12.30 p.m.
   Cyber Forensics
 ----
-> Saturday 8th May 2021
+> **Saturday 8th May 2021**
   11.30 a.m. to 12.30 p.m.
   Digital Image Processing
 ----
-> Monday 10th May 2021
+> **Monday 10th May 2021**
   11.30 a.m. to 12.30 p.m.
   Data Science
 ----
-> Tuesday 11th May 2021
+> **Tuesday 11th May 2021**
   11.30 a.m. to 12.30 p.m.
   Ethical Hacking
 ----
