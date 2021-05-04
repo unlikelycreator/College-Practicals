@@ -12,8 +12,8 @@ Programme – TY BSc C.S. (Computer Science) (CBCS)
 
 
 > **Thursday 6th May 2021**
-  11.30 a.m. to 12.30 p.m.
-  Wireless Sensor Networks And Mobile Communication
+  - 11.30 a.m. to 12.30 p.m.
+  - Wireless Sensor Networks And Mobile Communication
 ----
 > **Friday 7th May 2021**
   11.30 a.m. to 12.30 p.m.
